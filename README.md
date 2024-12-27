@@ -9,6 +9,17 @@ This project implements a seam carving algorithm for image resizing with enhance
 - Seam removal to resize images.
 - Supports batch seam carving for multiple seam removals.
 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lanlokun/seam_carving-.git
+   cd seam_carving
+   ```
+2. Install dependencies: (optional)
+   ```bash
+   pip install -r requirements.txt 
+   ```
+
 ## Usage
 Run the project using the provided Jupyter Notebook:
 1. Launch the notebook:
